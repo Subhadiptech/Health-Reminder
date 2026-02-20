@@ -1,5 +1,6 @@
 package com.dev.healthreminder
 
+import com.dev.healthreminder.presentation.ui.utils.Platform
 import platform.UIKit.UIDevice
 
 class IOSPlatform: Platform {

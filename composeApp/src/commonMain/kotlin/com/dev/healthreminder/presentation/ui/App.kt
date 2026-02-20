@@ -1,4 +1,4 @@
-package com.dev.healthreminder
+package com.dev.healthreminder.presentation.ui
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image
@@ -14,6 +14,7 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.dev.healthreminder.presentation.ui.Greeting
 import org.jetbrains.compose.resources.painterResource
 
 import healthreminder.composeapp.generated.resources.Res

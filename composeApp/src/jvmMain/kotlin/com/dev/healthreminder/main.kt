@@ -2,6 +2,7 @@ package com.dev.healthreminder
 
 import androidx.compose.ui.window.Window
 import androidx.compose.ui.window.application
+import com.dev.healthreminder.presentation.ui.App
 
 fun main() = application {
     Window(
